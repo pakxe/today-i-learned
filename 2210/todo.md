@@ -1,20 +1,20 @@
-- [ ]우테코 프리코스 ot 보기
-- [ ]우테코 프리코스 ot 정리
-- [ ]콜백함수 복습
-- [ ]동기 비동기 await/sync에 대한 이해(https://velog.io/@thsoon/JS-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%EB%90%98%EC%96%B4%EC%9E%88%EB%8A%94%EA%B0%80)
-- [ ]setTimeout
-- [ ]디데이 위젯
-- [ ]rxjs
-- [ ]next.js
-- [ ]ts
-- [ ]moment.js
-- [ ]컨벤션 블로깅(https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
-- [ ]코자스 this
-- [ ]위젯에 쓰인 setInterval 공부
-- [ ]git revert 간단하게 복습
-- [ ]화살표 함수 공부
-- [ ]콤보모드 블로깅
-- [ ]읽어보기(https://velog.io/@plutoin/%EC%9D%BC%EB%8B%A8-%EB%A7%8C%EB%93%9C%EB%8A%94-JS-%EA%B8%B0%EB%85%90%EC%9D%BC-%EA%B3%84%EC%82%B0%EA%B8%B0)
-- [ ]깃헙 꾸미는거 알아보기
-- [ ]styledcomponent 공식문서를 보면 keyframe을 쓸때 css를 붙이고 백틱안에 css속성들을 작성하던데 이거 안쓰면 속도가 느려진대요. 이 붙이는 용어는 뭐라고 하고???? 왜 찾아도안나오는거지
-- [ ]study-log 정리하는 방법 확립
+- [ ] 우테코 프리코스 ot 보기
+- [ ] 우테코 프리코스 ot 정리
+- [ ] 콜백함수 복습
+- [ ] 동기 비동기 await/sync에 대한 이해(https://velog.io/@thsoon/JS-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%EB%90%98%EC%96%B4%EC%9E%88%EB%8A%94%EA%B0%80)
+- [ ] setTimeout
+- [ ] 디데이 위젯
+- [ ] rxjs
+- [ ] next.js
+- [ ] ts
+- [ ] moment.js
+- [ ] 컨벤션 블로깅(https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
+- [ ] 코자스 this
+- [ ] 위젯에 쓰인 setInterval 공부
+- [ ] git revert 간단하게 복습
+- [ ] 화살표 함수 공부
+- [ ] 콤보모드 블로깅
+- [ ] 읽어보기(https://velog.io/@plutoin/%EC%9D%BC%EB%8B%A8-%EB%A7%8C%EB%93%9C%EB%8A%94-JS-%EA%B8%B0%EB%85%90%EC%9D%BC-%EA%B3%84%EC%82%B0%EA%B8%B0)
+- [ ] 깃헙 꾸미는거 알아보기
+- [ ] styledcomponent 공식문서를 보면 keyframe을 쓸때 css를 붙이고 백틱안에 css속성들을 작성하던데 이거 안쓰면 속도가 느려진대요. 이 붙이는 용어는 뭐라고 하고???? 왜 찾아도안나오는거지
+- [ ] study-log 정리하는 방법 확립
