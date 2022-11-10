@@ -1,3 +1,8 @@
+- [ ] 프론트엔드 면접 질문 https://velog.io/@honeysuckle/%EC%8B%A0%EC%9E%85-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%AA%A8%EC%9D%8C
+- [ ] redux https://velog.io/@velopert/using-redux-in-2021
+- [ ] 무한 스크롤 https://velog.io/@reasonz/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C-%EB%AC%B4%ED%95%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Intersection-Observer-API
+- [ ] border 에 gradient https://velog.io/@dusunax/CSS-border%EC%97%90-gradient-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0
+- [ ] context API 사용법 https://velog.io/@velopert/react-context-tutorial
 - [ ] 정규식 공부 ( /[3, 6, 9]/g) 이게 뭐지?
 - [ ] RegExp 공부 gi??
 - [ ] Number, BigInt
